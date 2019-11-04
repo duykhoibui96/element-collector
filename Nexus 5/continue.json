@@ -1,0 +1,32 @@
+[
+    {
+        "key": "",
+        "value": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout[2]/android.widget.LinearLayout/android.widget.ScrollView/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.Button[1]"
+    },
+  {
+    "key": "elementId",
+    "value": "8d04893e-6b38-49a3-b46d-a9b6f4271c49",
+    "name": "elementId"
+  },
+  { "key": "index", "value": "1", "name": "index" },
+  { "key": "package", "value": "com.pinterest", "name": "package" },
+  { "key": "class", "value": "android.widget.Button", "name": "class" },
+  { "key": "text", "value": "Continue", "name": "text" },
+  {
+    "key": "resource-id",
+    "value": "com.pinterest:id/continue_email_bt",
+    "name": "resource-id"
+  },
+  { "key": "checkable", "value": "false", "name": "checkable" },
+  { "key": "checked", "value": "false", "name": "checked" },
+  { "key": "clickable", "value": "true", "name": "clickable" },
+  { "key": "enabled", "value": "true", "name": "enabled" },
+  { "key": "focusable", "value": "false", "name": "focusable" },
+  { "key": "focused", "value": "false", "name": "focused" },
+  { "key": "long-clickable", "value": "false", "name": "long-clickable" },
+  { "key": "password", "value": "false", "name": "password" },
+  { "key": "scrollable", "value": "false", "name": "scrollable" },
+  { "key": "selected", "value": "false", "name": "selected" },
+  { "key": "bounds", "value": "[47,1025][1030,1145]", "name": "bounds" },
+  { "key": "displayed", "value": "true", "name": "displayed" }
+]

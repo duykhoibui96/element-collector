@@ -1,0 +1,33 @@
+[
+    {
+        "key": "xpath",
+        "value": "//android.widget.ImageView[@content-desc=\"Cancel\"]"
+    },
+  {
+    "key": "elementId",
+    "value": "98034aa6-1ba9-4677-936e-64e4e6731eed",
+    "name": "elementId"
+  },
+  { "key": "index", "value": "0", "name": "index" },
+  { "key": "package", "value": "com.pinterest", "name": "package" },
+  { "key": "class", "value": "android.widget.ImageView", "name": "class" },
+  { "key": "text", "value": "", "name": "text" },
+  { "key": "content-desc", "value": "Cancel", "name": "content-desc" },
+  {
+    "key": "resource-id",
+    "value": "com.pinterest:id/bar_home",
+    "name": "resource-id"
+  },
+  { "key": "checkable", "value": "false", "name": "checkable" },
+  { "key": "checked", "value": "false", "name": "checked" },
+  { "key": "clickable", "value": "true", "name": "clickable" },
+  { "key": "enabled", "value": "true", "name": "enabled" },
+  { "key": "focusable", "value": "false", "name": "focusable" },
+  { "key": "focused", "value": "false", "name": "focused" },
+  { "key": "long-clickable", "value": "false", "name": "long-clickable" },
+  { "key": "password", "value": "false", "name": "password" },
+  { "key": "scrollable", "value": "false", "name": "scrollable" },
+  { "key": "selected", "value": "false", "name": "selected" },
+  { "key": "bounds", "value": "[12,105][138,231]", "name": "bounds" },
+  { "key": "displayed", "value": "true", "name": "displayed" }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "key": "",
+        "value": "//android.view.View[@content-desc=\"Pin from wallpaperslinks.com, Description: Fondos de Pantalla de Superhéroes\"]"
+    },
+  {
+    "key": "elementId",
+    "value": "cc4db0c7-2838-4f4d-9ae1-f522dbb0f664",
+    "name": "elementId"
+  },
+  { "key": "index", "value": "0", "name": "index" },
+  { "key": "package", "value": "com.pinterest", "name": "package" },
+  { "key": "class", "value": "android.view.View", "name": "class" },
+  { "key": "text", "value": "", "name": "text" },
+  {
+    "key": "content-desc",
+    "value": "Pin from wallpaperslinks.com, Description: Fondos de Pantalla de Superhéroes",
+    "name": "content-desc"
+  },
+  { "key": "checkable", "value": "false", "name": "checkable" },
+  { "key": "checked", "value": "false", "name": "checked" },
+  { "key": "clickable", "value": "true", "name": "clickable" },
+  { "key": "enabled", "value": "true", "name": "enabled" },
+  { "key": "focusable", "value": "false", "name": "focusable" },
+  { "key": "focused", "value": "false", "name": "focused" },
+  { "key": "long-clickable", "value": "false", "name": "long-clickable" },
+  { "key": "password", "value": "false", "name": "password" },
+  { "key": "scrollable", "value": "false", "name": "scrollable" },
+  { "key": "selected", "value": "false", "name": "selected" },
+  { "key": "bounds", "value": "[48,301][516,1179]", "name": "bounds" },
+  { "key": "displayed", "value": "true", "name": "displayed" }
+]
