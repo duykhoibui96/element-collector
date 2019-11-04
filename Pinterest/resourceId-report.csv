@@ -1,0 +1,8 @@
+Element,Galaxy-C5,Galaxy-J2-Prime,Galaxy-S6,LG-K10 LTE,Nexus-5,Pixel-3,Xperia-L1,Matching Rate (%)
+continue_email_bt.json,com.pinterest:id/continue_email_bt,com.pinterest:id/continue_email_bt,com.pinterest:id/continue_email_bt,com.pinterest:id/continue_email_bt,com.pinterest:id/continue_email_bt,com.pinterest:id/continue_email_bt,com.pinterest:id/continue_email_bt,100
+email_address.json,com.pinterest:id/email_address,com.pinterest:id/email_address,com.pinterest:id/email_address,com.pinterest:id/email_address,com.pinterest:id/email_address,com.pinterest:id/email_address,com.pinterest:id/email_address,100
+next_bt.json,com.pinterest:id/next_bt,com.pinterest:id/next_bt,com.pinterest:id/next_bt,com.pinterest:id/next_bt,com.pinterest:id/next_bt,com.pinterest:id/next_bt,com.pinterest:id/next_bt,100
+password.json,com.pinterest:id/password,com.pinterest:id/password,com.pinterest:id/password,com.pinterest:id/password,com.pinterest:id/password,com.pinterest:id/password,com.pinterest:id/password,100
+password_toggle_cb.json,com.pinterest:id/password_toggle_cb,com.pinterest:id/password_toggle_cb,com.pinterest:id/password_toggle_cb,com.pinterest:id/password_toggle_cb,com.pinterest:id/password_toggle_cb,com.pinterest:id/password_toggle_cb,com.pinterest:id/password_toggle_cb,100
+view_search_bar_input.json,com.pinterest:id/view_search_bar_input,com.pinterest:id/view_search_bar_input,com.pinterest:id/view_search_bar_input,com.pinterest:id/view_search_bar_input,com.pinterest:id/view_search_bar_input,com.pinterest:id/view_search_bar_input,com.pinterest:id/view_search_bar_input,100
+,,,,,,,,100

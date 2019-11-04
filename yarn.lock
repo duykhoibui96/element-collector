@@ -148,6 +148,11 @@ crc@^3.4.4:
   dependencies:
     buffer "^5.1.0"
 
+csv-writer@^1.5.0:
+  version "1.5.0"
+  resolved "https://registry.yarnpkg.com/csv-writer/-/csv-writer-1.5.0.tgz#86c669be32cdd55dc2b66d722a3906f562547884"
+  integrity sha512-Um27xYNzwI6iAXf96tz7j8nnabBbADeDd2cQ5gAjJaXyPrj3C7qX7uCI8Wp8Q+e9rRdkWQ+Sa1J6X5cDyInLWw==
+
 dashdash@^1.12.0:
   version "1.14.1"
   resolved "https://registry.yarnpkg.com/dashdash/-/dashdash-1.14.1.tgz#853cfa0f7cbe2fed5de20326b8dd581035f6e2f0"

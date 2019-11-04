@@ -4,7 +4,7 @@ const BPromise = require('bluebird')
 const parseXmlDom = require('./utils')
 
 const testBundle = [
-    "Pinterest"
+    "Walmart"
 ]
 
 const auth = {
@@ -28,7 +28,7 @@ async function save(elementName, {key = 'resourceId', value = ''} = {}) {
         return
     }
 
-    const path = `./${this.appName}/${this.deviceName}/${elementName}.json`
+    const path = `./${this.appName}/devices/${this.deviceName}/${elementName}.json`
     const json = JSON.stringify(elementData)
     fs.writeFileSync(path, json, 'utf8');
 }
@@ -48,7 +48,7 @@ async function save(elementName, {key = 'resourceId', value = ''} = {}) {
 
         await BPromise.mapSeries(config.devices, async (device) => {
             const deviceName = device.replace(' ', '-')
-            const deviceFolder = `./${appName}/${deviceName}`
+            const deviceFolder = `./${appName}/devices/${deviceName}`
             const ns = `${appName}-${device}`
 
             if (fs.existsSync(deviceFolder)) {
